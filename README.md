@@ -35,5 +35,5 @@ This project focuses on designing and optimizing a **lead screw for a lathe mach
 
 ---  
 ✉ **Questions?**  
-*"Precision is not just a measure; it's a necessity."* — **Unknown**
+*"Precision is not just a measure; it's a necessity."*
 
